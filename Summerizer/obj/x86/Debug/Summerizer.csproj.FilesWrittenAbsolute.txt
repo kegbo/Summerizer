@@ -1,0 +1,5 @@
+/Users/Ibok/Workspace/C#/Summerizer/Summerizer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Ibok/Workspace/C#/Summerizer/Summerizer/bin/Debug/Summerizer.exe.mdb
+/Users/Ibok/Workspace/C#/Summerizer/Summerizer/bin/Debug/Summerizer.exe
+/Users/Ibok/Workspace/C#/Summerizer/Summerizer/obj/x86/Debug/Summerizer.exe
+/Users/Ibok/Workspace/C#/Summerizer/Summerizer/obj/x86/Debug/Summerizer.exe.mdb

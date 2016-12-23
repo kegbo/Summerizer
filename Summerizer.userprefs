@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{34A98A5F-121E-413B-A75A-7E4E2905F938}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Summerizer/TextProcessor.cs">
+    <Files>
+      <File FileName="Summerizer/TextProcessor.cs" Line="190" Column="3" />
+      <File FileName="Summerizer/Summerizer.cs" Line="28" Column="1" />
+      <File FileName="Summerizer/UserPrompt.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Summerizer/TextProcessor.cs" line="205" offsetX="415" offsetY="3058" expression="groups" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Summerizer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

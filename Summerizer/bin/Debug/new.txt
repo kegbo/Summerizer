@@ -1,0 +1,6 @@
+Artificial intelligence is intelligence exhibited by machines
+ Colloquially, the term artificial intelligence is applied when a machine mimics cognitive functions that humans associate with other human minds, such as learning and problem solving As machines become increasingly capable, facilities once thought to require intelligence are removed from the definition
+ General intelligence is among the field's long-term goals
+
+
+The field was founded on the claim that human intelligence can be so precisely described that a machine can be made to simulate it

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summerizer", "Summerizer\Summerizer.csproj", "{34A98A5F-121E-413B-A75A-7E4E2905F938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34A98A5F-121E-413B-A75A-7E4E2905F938}.Debug|x86.ActiveCfg = Debug|x86
+		{34A98A5F-121E-413B-A75A-7E4E2905F938}.Debug|x86.Build.0 = Debug|x86
+		{34A98A5F-121E-413B-A75A-7E4E2905F938}.Release|x86.ActiveCfg = Release|x86
+		{34A98A5F-121E-413B-A75A-7E4E2905F938}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
